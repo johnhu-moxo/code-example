@@ -1,6 +1,6 @@
 # XXX SDK Code Examples
 
-This GitHub repo includes code examples for the XXX SDK.You could reference for below user cases:
+This GitHub repo includes code examples for the XXX SDK. You could reference for below user cases:
 
 * Internal user create flow conversation with customer
 * Customer user open flow conversation
@@ -25,7 +25,7 @@ After all this data set, we could go dive into code now!
 ### Prerequisites
 
 1. Extract the Code Examples ZIP file or download or clone the code-examples-node repository.
-2. Fill 'client_id', 'client_secret', 'org_id' in file `/code-examples/create_flow/main.vue` or `code-examples/open_flow/main.vue`
+2. Fill 'domain', 'client_id', 'client_secret', 'org_id', 'unique_id' in file `/code-examples/create_flow/HomePage.vue` or `code-examples/open_flow/main.vue`
    Second folder path depends which demo you want to experience.
    You could find this details in 'xxx.xxx.com', under detail page of the app you just created.
    ![app_detail](./Resources/app_detail.png)

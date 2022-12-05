@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import CreateFlow from './components/CreateFlow.vue'
+import CreateFlow from './components/HomePage.vue'
 
 export default {
   name: 'App',
